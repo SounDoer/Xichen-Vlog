@@ -12,6 +12,7 @@ Font 喜鹊聚珍体 in Video is from [喜鹊造字](https://www.luckytype.com)
 
 <!-- Start Document Outline -->
 
+* [Xichen's Vlog #041 MIDI Controller DIY](#xichens-vlog-041-midi-controller-diy)
 * [Xichen's Vlog #040 “大众”城市探险](#xichens-vlog-040-大众城市探险)
 * [Xichen's Vlog #039 道具库房](#xichens-vlog-039-道具库房)
 * [Xichen's Vlog #038 Foley with Air](#xichens-vlog-038-foley-with-air)
@@ -57,6 +58,18 @@ Font 喜鹊聚珍体 in Video is from [喜鹊造字](https://www.luckytype.com)
 <!-- End Document Outline -->
 
 ---
+
+### Xichen's Vlog #041 MIDI Controller DIY
+
+![Xichen Vlog 040 Cover](./cover/Xichen_Vlog_041_Cover.jpg)
+[YouTube](https://www.youtube.com/watch?v=l4rwzVTaA8A)
+[Bilibili](https://www.bilibili.com/video/BV1Wh411p7m8)
+
+做了一个花哨无用的东西。
+
+Music in Video is from artlist.io:  
+Turn-up by Monako  
+More by Nenor
 
 ### Xichen's Vlog #040 “大众”城市探险
 

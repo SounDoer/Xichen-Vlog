@@ -61,10 +61,14 @@ Font 喜鹊聚珍体 in Video is from [喜鹊造字](https://www.luckytype.com)
 
 ### Xichen's Vlog #042
 
+![Xichen Vlog 042 Cover](./cover/Xichen_Vlog_042_Cover.jpg)
+[YouTube]()
+[Bilibili]()
+
 
 ### Xichen's Vlog #041 MIDI Controller DIY
 
-![Xichen Vlog 040 Cover](./cover/Xichen_Vlog_041_Cover.jpg)
+![Xichen Vlog 041 Cover](./cover/Xichen_Vlog_041_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=l4rwzVTaA8A)
 [Bilibili](https://www.bilibili.com/video/BV1Wh411p7m8)
 

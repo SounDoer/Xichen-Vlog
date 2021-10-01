@@ -65,6 +65,8 @@ Font 喜鹊聚珍体 in Video is from [喜鹊造字](https://www.luckytype.com)
 [YouTube]()
 [Bilibili]()
 
+Music in Video is from artlist.io:  
+Naos Lullaby by Rafi-b.-Levy
 
 ### Xichen's Vlog #041 MIDI Controller DIY
 
@@ -75,7 +77,7 @@ Font 喜鹊聚珍体 in Video is from [喜鹊造字](https://www.luckytype.com)
 做了一个花哨无用的东西。
 
 Music in Video is from artlist.io:  
-Turn-up by Monako  
+Turn Up by Monako  
 More by Nenor
 
 ### Xichen's Vlog #040 “大众”城市探险

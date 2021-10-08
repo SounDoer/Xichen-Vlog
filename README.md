@@ -65,7 +65,7 @@ Font 喜鹊聚珍体 in Video is from [喜鹊造字](https://www.luckytype.com)
 [YouTube]()
 [Bilibili]()
 
-
+嵊泗枸杞岛寻浪 Presented by NExT Studios Audio Team。
 
 Music in Video is from artlist.io:  
 Naos Lullaby by Rafi-b.-Levy

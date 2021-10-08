@@ -59,7 +59,7 @@ Font 喜鹊聚珍体 in Video is from [喜鹊造字](https://www.luckytype.com)
 
 ---
 
-### Xichen's Vlog #042
+### Xichen's Vlog #042 浪
 
 ![Xichen Vlog 042 Cover](./cover/Xichen_Vlog_042_Cover.jpg)
 [YouTube]()

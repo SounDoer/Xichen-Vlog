@@ -63,8 +63,8 @@ Font 喜鹊聚珍体 in Video is from [喜鹊造字](https://www.luckytype.com)
 ### Xichen's Vlog #042 浪
 
 ![Xichen Vlog 042 Cover](./cover/Xichen_Vlog_042_Cover.jpg)
-[YouTube]()
-[Bilibili]()
+[YouTube](https://www.youtube.com/watch?v=4D02QzAS2cI)
+[Bilibili](https://www.bilibili.com/video/BV1YQ4y1X7VC)
 
 嵊泗枸杞岛寻浪 Presented by NExT Studios Audio Team。
 

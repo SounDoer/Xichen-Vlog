@@ -12,6 +12,7 @@ Font 喜鹊聚珍体 in Video is from [喜鹊造字](https://www.luckytype.com)
 
 <!-- Start Document Outline -->
 
+* [Xichen's Vlog #042 浪](#xichens-vlog-042-浪)
 * [Xichen's Vlog #041 MIDI Controller DIY](#xichens-vlog-041-midi-controller-diy)
 * [Xichen's Vlog #040 “大众”城市探险](#xichens-vlog-040-大众城市探险)
 * [Xichen's Vlog #039 道具库房](#xichens-vlog-039-道具库房)

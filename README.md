@@ -1,3 +1,9 @@
+---
+layout: default
+title: Xichen's Vlog
+nav_exclude: true
+---
+
 # Xichen's Vlog
 ## 泛主题的生活影像记录
 

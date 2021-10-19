@@ -1,4 +1,7 @@
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
+remote_theme: pmarsceill/just-the-docs
 
-# title: [Xichen's Vlog]
-# description: [泛主题的生活影像记录]
+title: [Xichen's Vlog]
+description: [泛主题的生活影像记录]
+
+color_scheme: dark

@@ -5,6 +5,20 @@ nav_exclude: true
 permalink: /
 ---
 
+# Navigation Structure
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+-. TOC
+{:toc}
+</details>
+
+---
+
 # Xichen's Vlog
 ## 泛主题的生活影像记录
 

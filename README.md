@@ -6,13 +6,16 @@ permalink: /
 ---
 
 # Xichen's Vlog
-## 泛主题的生活影像记录
+
+***
+
+泛主题的影像记录，持续更新中。
 
 YouTube: [Xichen Shen](https://www.youtube.com/c/XichenShen)  
 Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)  
 Weibo: [希辰Xichen](https://weibo.com/soundoer)
 
----
+***
 
 <!-- Start Document Outline -->
 
@@ -62,9 +65,9 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 
 <!-- End Document Outline -->
 
----
+***
 
-### Xichen's Vlog #042 浪
+## Xichen's Vlog #042 浪
 
 ![Xichen Vlog 042 Cover](./cover/Xichen_Vlog_042_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=4D02QzAS2cI)
@@ -79,7 +82,7 @@ SoundField SPS200
 Music in Video is from artlist.io:  
 Naos Lullaby by Rafi-b.-Levy
 
-### Xichen's Vlog #041 MIDI Controller DIY
+## Xichen's Vlog #041 MIDI Controller DIY
 
 ![Xichen Vlog 041 Cover](./cover/Xichen_Vlog_041_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=l4rwzVTaA8A)
@@ -91,7 +94,7 @@ Music in Video is from artlist.io:
 Turn Up by Monako  
 More by Nenor
 
-### Xichen's Vlog #040 “大众”城市探险
+## Xichen's Vlog #040 “大众”城市探险
 
 ![Xichen Vlog 040 Cover](./cover/Xichen_Vlog_040_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=_GJcpv2FO5w)
@@ -102,7 +105,7 @@ More by Nenor
 Music in Video is from artlist.io:  
 Swifts Day by Aquartos
 
-### Xichen's Vlog #039 道具库房
+## Xichen's Vlog #039 道具库房
 
 ![Xichen Vlog 039 Cover](./cover/Xichen_Vlog_039_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=1pO5mkMhckw)
@@ -110,7 +113,7 @@ Swifts Day by Aquartos
 
 参观中影基地道具库房，走调的老钢琴独具魅力。
 
-### Xichen's Vlog #038 Foley with Air
+## Xichen's Vlog #038 Foley with Air
 
 ![Xichen Vlog 038 Cover](./cover/Xichen_Vlog_038_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=1tl_UAWcMfc)
@@ -118,7 +121,7 @@ Swifts Day by Aquartos
 
 再赴北京怀柔中影基地录拟音。
 
-### Xichen's Vlog #037 2021 Global Game Jam《剑入禅境》开发纪录
+## Xichen's Vlog #037 2021 Global Game Jam《剑入禅境》开发纪录
 
 ![Xichen Vlog 037 Cover](./cover/Xichen_Vlog_037_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=tlYmEOBl11g)
@@ -130,7 +133,7 @@ Swifts Day by Aquartos
 
 Music from Crouching Tiger, Hidden Dragon OST by Tan Dun, Yo-Yo Ma, Xie-yang Chen, David Cossin
 
-### Xichen's Vlog #036 我在外滩飞飞机
+## Xichen's Vlog #036 我在外滩飞飞机
 
 Xichen's Vlog #036 My Drone Flying above The Bund
 
@@ -143,7 +146,7 @@ Xichen's Vlog #036 My Drone Flying above The Bund
 Music in Video:  
 罗威 - 延安高架桥小夜曲
 
-### Xichen's Vlog #035 徐家渡米轨
+## Xichen's Vlog #035 徐家渡米轨
 
 Xichen's Vlog #035 Abandoned Metre-Gauge Railways in Xujiadu, Yunnan
 
@@ -162,7 +165,7 @@ Xichen's Vlog #035 Abandoned Metre-Gauge Railways in Xujiadu, Yunnan
 Music in Video:  
 莫西子诗 - 山魈
 
-### Xichen's Vlog #034 青龙镇赶集
+## Xichen's Vlog #034 青龙镇赶集
 
 Xichen's Vlog #034 Rural Fair in Qinglong Town, Yunnan
 
@@ -175,7 +178,7 @@ Xichen's Vlog #034 Rural Fair in Qinglong Town, Yunnan
 Music in Video:  
 莫西子诗 - 赶集
 
-### Xichen's Vlog #033 湖光潋滟 山雾氤氲
+## Xichen's Vlog #033 湖光潋滟 山雾氤氲
 
 Xichen's Vlog #033 Yunnan Fuxian Lake
 
@@ -191,7 +194,7 @@ Xichen's Vlog #033 Yunnan Fuxian Lake
 Music in Video is from artlist.io:  
 Cautious Fog by Harbor Fate
 
-### Xichen's Vlog #032 快乐合成器
+## Xichen's Vlog #032 快乐合成器
 
 ![Xichen Vlog 032 Cover](./cover/Xichen_Vlog_032_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=ov-9Wer4KCc)
@@ -202,7 +205,7 @@ Cautious Fog by Harbor Fate
 Music in Video is from artlist.io:  
 Normalize by Stanley Gurvich
 
-### Xichen's Vlog #031 东滩月光
+## Xichen's Vlog #031 东滩月光
 
 Xichen's Vlog #031 Moonlight on Dongtan, Shanghai
 
@@ -220,7 +223,7 @@ Xichen's Vlog #031 Moonlight on Dongtan, Shanghai
 Music in Video:  
 康姆士乐团 - 你要如何，我们就如何
 
-### Xichen's Vlog #030 侯老师开课啦
+## Xichen's Vlog #030 侯老师开课啦
 
 ![Xichen Vlog 030 Cover](./cover/Xichen_Vlog_030_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=ufFtdt9wKek)
@@ -231,7 +234,7 @@ Audiokinetic 产品专家侯晨钟线下技术分享，巧遇学弟交流入行�
 Music in Video is from artlist.io:  
 Grumpy Snowflake by Peter Spacey
 
-### Xichen's Vlog #029 Audio Designer as Game Developer
+## Xichen's Vlog #029 Audio Designer as Game Developer
 
 ![Xichen Vlog 029 Cover](./cover/Xichen_Vlog_029_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=WIe9NFA_ZRA)
@@ -242,7 +245,7 @@ Grumpy Snowflake by Peter Spacey
 Music in Video is from artlist.io:  
 Better Now Instrumental Version by These Nuts
 
-### Xichen's Vlog #028 你从没见过的 WB Studios
+## Xichen's Vlog #028 你从没见过的 WB Studios
 
 Xichen's Vlog #028 A Special Warner Bros. Studio Tour
 
@@ -260,7 +263,7 @@ Beams by AM Beef
 Busy World by Lance Conrad  
 Diamond by The Delorean
 
-### Xichen's Vlog #027 突突突突突
+## Xichen's Vlog #027 突突突突突
 
 ![Xichen Vlog 027 Cover](./cover/Xichen_Vlog_027_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=P0d5BbLGoxA)
@@ -283,7 +286,7 @@ Punch by Oliver Michael
 Bionic Games by Ian Post  
 Do the Math by SLPSTRM
 
-### Xichen's Vlog #026 NExT Game Jam
+## Xichen's Vlog #026 NExT Game Jam
 
 ![Xichen Vlog 026 Cover](./cover/Xichen_Vlog_026_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=yDq4LN-Dubw)
@@ -299,7 +302,7 @@ Bright Up
 Soul Makossa  
 Tokyo Aventure
 
-### Xichen's Vlog #025 Jerry.树: 取悦自己
+## Xichen's Vlog #025 Jerry.树: 取悦自己
 
 ![Xichen Vlog 025 Cover](./cover/Xichen_Vlog_025_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=aYcr9OGJfDM)
@@ -311,7 +314,7 @@ Music in Video is from 法兹乐队:
 临兵斗者  
 控制
 
-### Xichen's Vlog #024 Foley with Sandpaper, Slime and Fish
+## Xichen's Vlog #024 Foley with Sandpaper, Slime and Fish
 
 ![Xichen Vlog 024 Cover](./cover/Xichen_Vlog_024_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=X9AdLHDRKGw)
@@ -322,7 +325,7 @@ Music in Video is from 法兹乐队:
 Music in Video is from BimBamBoom:  
 King & Joker
 
-### Xichen's Vlog #023 中影基地录 Foley
+## Xichen's Vlog #023 中影基地录 Foley
 
 Xichen's Vlog #023 Foley at State Production Base of China Film Group
 
@@ -336,7 +339,7 @@ Music in Video is from John Wick (Original Motion Picture Soundtrack):
 Tyler Bates & Joel J. Richard - On The Hunt  
 The Candy Shop Boys - Evil Man Blues
 
-### Xichen's Vlog #022 去日本看 STING
+## Xichen's Vlog #022 去日本看 STING
 
 ![Xichen Vlog 022 Cover](./cover/Xichen_Vlog_022_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=byYNBNPLJp4)
@@ -348,7 +351,7 @@ Music in Video is from STING:
 Brand New Day  
 Englishman In New York
 
-### Xichen's Vlog #021 我是怎么用 GoPro 拍 Vlog 的
+## Xichen's Vlog #021 我是怎么用 GoPro 拍 Vlog 的
 
 ![Xichen Vlog 021 Cover](./cover/Xichen_Vlog_021_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=HWN2qGKf31s)
@@ -365,7 +368,7 @@ DIZA ND2-400 Filter 52mm
 Music in Video is from artlist.io:  
 Phonebroke by Fresh
 
-### Xichen's Vlog #020 乌苏录林子
+## Xichen's Vlog #020 乌苏录林子
 
 Xichen's Vlog #020 Field Recording: Coniferous Forest Sound in Xinjiang China
 
@@ -397,7 +400,7 @@ Show Out by Theevs
 谁能真正珍惜童年呢  
 By 萨克部落
 
-### Xichen's Vlog #019 清凉峰录水
+## Xichen's Vlog #019 清凉峰录水
 
 Xichen's Vlog #019 Field Recording: Water Sound in Mountains
 
@@ -423,7 +426,7 @@ Music in Video is from artlist.io:
 Brightness by Lane King  
 Possible Light by Ziv Moran
 
-### Xichen's Vlog #018 Field Recording 上山入洞
+## Xichen's Vlog #018 Field Recording 上山入洞
 
 Xichen's Vlog #018 Field Recording: Up to Hill, Down to Cave.
 
@@ -447,7 +450,7 @@ Music in Video is from artlist.io:
 The Bridge by Ziv Moran  
 Giving It All by Be Still the Earth
 
-### Xichen's Vlog #017 长广牛头山
+## Xichen's Vlog #017 长广牛头山
 
 ![Xichen Vlog 017 Cover](./cover/Xichen_Vlog_017_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=l0mmGSShtkQ)
@@ -460,7 +463,7 @@ Incident by Alex Zado (Colloquium)
 Revelations by Tristan Barton (Revelations)  
 Holding Back by Michael FK (Embers)
 
-### Xichen's Vlog #016 游戏音频设计师需要会编程吗？
+## Xichen's Vlog #016 游戏音频设计师需要会编程吗？
 
 ![Xichen Vlog 016 Cover](./cover/Xichen_Vlog_016_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=ptcft3HHxuY)
@@ -471,7 +474,7 @@ Holding Back by Michael FK (Embers)
 Music in Vlog is from artlist.io:  
 Celebrate Your Heart by Maytal Michaeli (Celebrate Your Heart)
 
-### Xichen's Vlog #015 SHVFS 声音设计专业 INDUSTRY PANEL
+## Xichen's Vlog #015 SHVFS 声音设计专业 INDUSTRY PANEL
 
 ![Xichen Vlog 015 Cover](./cover/Xichen_Vlog_015_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=eCQGv5dF-1E)
@@ -483,7 +486,7 @@ Music in Vlog is from artlist.io:
 Glossy by Skygaze (LUSH)  
 Through the Fire by Michael Shynes (Simply)
 
-### Xichen's Vlog #014 我是怎么用手机拍 Vlog 的
+## Xichen's Vlog #014 我是怎么用手机拍 Vlog 的
 
 ![Xichen Vlog 014 Cover](./cover/Xichen_Vlog_014_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=vTfSCcXA_Cg)
@@ -495,7 +498,7 @@ Music in Vlog is from artlist.io:
 Sunbeam by Onyx Music (Exploring Time)  
 By My Side by K. Solis
 
-### Xichen's Vlog #013 海边录音航拍大片
+## Xichen's Vlog #013 海边录音航拍大片
 
 ![Xichen Vlog 013 Cover](./cover/Xichen_Vlog_013_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=1u45bHwRDZU)
@@ -503,7 +506,7 @@ By My Side by K. Solis
 
 拍摄了一期纪录片节目，过段时间大家可以在上海地铁的屏幕上看到我了。
 
-### Xichen's Vlog #012 八点三刻人声乐团
+## Xichen's Vlog #012 八点三刻人声乐团
 
 ![Xichen Vlog 012 Cover](./cover/Xichen_Vlog_012_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=vGtvXadxBDI)
@@ -511,7 +514,7 @@ By My Side by K. Solis
 
 送上一首 Santa Claus is Coming to Town，祝大家圣诞快乐！
 
-### Xichen's Vlog #011 福建泉州行
+## Xichen's Vlog #011 福建泉州行
 
 ![Xichen Vlog 011 Cover](./cover/Xichen_Vlog_011_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=ZqQQahIvAmw)
@@ -519,7 +522,7 @@ By My Side by K. Solis
 
 吃喝玩乐游三天，以及拍了半年 Vlog 之后的三点感想。
 
-### Xichen's Vlog #010 Deity V-Mic D3 Pro 测评
+## Xichen's Vlog #010 Deity V-Mic D3 Pro 测评
 
 ![Xichen Vlog 010 Cover](./cover/Xichen_Vlog_010_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=Q6K6ibOP8uY)
@@ -527,7 +530,7 @@ By My Side by K. Solis
 
 介绍一下新品牌 Deity 的新产品 V-Mic D3 Pro，一款小巧轻便的 On-Camera 麦克风。
 
-### Xichen's Vlog #009 Wwise Tour 上海站
+## Xichen's Vlog #009 Wwise Tour 上海站
 
 ![Xichen Vlog 009 Cover](./cover/Xichen_Vlog_009_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=0KGJlBX0WmY)
@@ -535,7 +538,7 @@ By My Side by K. Solis
 
 国内游戏音频圈同行齐聚，新老朋友线下聚会。
 
-### Xichen's Vlog #008 走马观花国际乐展
+## Xichen's Vlog #008 走马观花国际乐展
 
 ![Xichen Vlog 008 Cover](./cover/Xichen_Vlog_008_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=7qTj6vV0FO0)
@@ -543,7 +546,7 @@ By My Side by K. Solis
 
 与杨杰老师和汤楠老板一起聊了“游戏声音设计趣事谈”，欢迎网友们时常联系，线下面基。
 
-### Xichen's Vlog #007 稻子熟了
+## Xichen's Vlog #007 稻子熟了
 
 ![Xichen Vlog 007 Cover](./cover/Xichen_Vlog_007_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=A-ycWHz7gK0)
@@ -551,7 +554,7 @@ By My Side by K. Solis
 
 国庆假期回湖州，记录一下农村老家，可能几年之后一拆迁就没了。
 
-### Xichen's Vlog #006 飞了一趟重庆
+## Xichen's Vlog #006 飞了一趟重庆
 
 ![Xichen Vlog 006 Cover](./cover/Xichen_Vlog_006_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=VKSAwK3vguY)
@@ -559,7 +562,7 @@ By My Side by K. Solis
 
 国庆节前接了一个录音小活，顺道介绍一下拍摄采访项目的同期录音需要准备哪些设备；试着给片子调了色，新东西学起来。
 
-### Xichen's Vlog #005 腾格里沙漠徒步行
+## Xichen's Vlog #005 腾格里沙漠徒步行
 
 ![Xichen Vlog 005 Cover](./cover/Xichen_Vlog_005_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=prLOUwkSqmY)
@@ -567,7 +570,7 @@ By My Side by K. Solis
 
 沙漠环境听起来是什么感觉？沙漠里有没有昆虫的叫声？无人机正式首飞。
 
-### Xichen's Vlog #004 枸杞岛录音之行
+## Xichen's Vlog #004 枸杞岛录音之行
 
 ![Xichen Vlog 004 Cover](./cover/Xichen_Vlog_004_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=HW36_goK7D4)
@@ -575,7 +578,7 @@ By My Side by K. Solis
 
 夜晚的海浪声很好听。关于 Field Recording 的几点想法：熟悉设备，Record List，声压计，多走多看多听。
 
-### Xichen's Vlog #003 黄山徒步行
+## Xichen's Vlog #003 黄山徒步行
 
 ![Xichen Vlog 003 Cover](./cover/Xichen_Vlog_003_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=YZjncPMuZIM)
@@ -583,7 +586,7 @@ By My Side by K. Solis
 
 天气恶劣，啥都看不到。
 
-### Xichen's Vlog #002 一次非严肃的 Field Recording Trip
+## Xichen's Vlog #002 一次非严肃的 Field Recording Trip
 
 ![Xichen Vlog 002 Cover](./cover/Xichen_Vlog_002_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=o0qohtKzXHA)
@@ -591,7 +594,7 @@ By My Side by K. Solis
 
 浙江温州永嘉县四海山森林公园，山里没人，有蛇有牛。
 
-### Xichen's Vlog #001 用什么设备录声音
+## Xichen's Vlog #001 用什么设备录声音
 
 ![Xichen Vlog 001 Cover](./cover/Xichen_Vlog_001_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=g_dcNFp1xzU)
@@ -599,7 +602,7 @@ By My Side by K. Solis
 
 手机、声卡、录音机？挑个贵的就行了。
 
-### Xichen's Vlog #000 From SounDoer to 希辰
+## Xichen's Vlog #000 From SounDoer to 希辰
 
 ![Xichen Vlog 000 Cover](./cover/Xichen_Vlog_000_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=YPNFKwR6OGc)
@@ -607,4 +610,4 @@ By My Side by K. Solis
 
 希辰是谁？为什么改名了？为什么拍 Vlog？
 
----
+***

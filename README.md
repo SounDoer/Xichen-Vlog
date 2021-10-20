@@ -8,23 +8,9 @@ permalink: /
 # Xichen's Vlog
 ## 泛主题的生活影像记录
 
-Website: [SounDoer.com](https://soundoer.com)  
-Weibo: [希辰Xichen](https://weibo.com/soundoer)  
+YouTube: [Xichen Shen](https://www.youtube.com/c/XichenShen)  
 Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)  
-YouTube: [Xichen Shen](https://www.youtube.com/c/XichenShen)
-
-Font 喜鹊聚珍体 in Video is from [喜鹊造字](https://www.luckytype.com)
-
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
--. TOC
-{:toc}
-</details>
+Weibo: [希辰Xichen](https://weibo.com/soundoer)
 
 ---
 

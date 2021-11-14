@@ -67,6 +67,19 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 
 ***
 
+## Xichen's Vlog #043 野竹漫步
+
+Xichen's Vlog #043 A Wild Walk in Bamboo Forest
+
+![Xichen Vlog 043 Cover](./cover/Xichen_Vlog_043_Cover.jpg)
+[YouTube]()
+[Bilibili]()
+
+浙江德清后坞村，在初冬的竹林中寻找竹叶。
+
+Music in Video is from artlist.io:  
+Open Wings by Liron Meyuhas
+
 ## Xichen's Vlog #042 浪
 
 ![Xichen Vlog 042 Cover](./cover/Xichen_Vlog_042_Cover.jpg)

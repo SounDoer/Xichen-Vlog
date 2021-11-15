@@ -19,6 +19,7 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 
 <!-- Start Document Outline -->
 
+* [Xichen's Vlog #043 野竹漫步](#xichens-vlog-043-野竹漫步)
 * [Xichen's Vlog #042 浪](#xichens-vlog-042-浪)
 * [Xichen's Vlog #041 MIDI Controller DIY](#xichens-vlog-041-midi-controller-diy)
 * [Xichen's Vlog #040 “大众”城市探险](#xichens-vlog-040-大众城市探险)
@@ -72,8 +73,8 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 Xichen's Vlog #043 A Wild Walk in Bamboo Forest
 
 ![Xichen Vlog 043 Cover](./cover/Xichen_Vlog_043_Cover.jpg)
-[YouTube]()
-[Bilibili]()
+[YouTube](https://www.youtube.com/watch?v=rk3d2727Jw0)
+[Bilibili](https://www.bilibili.com/video/BV1GR4y1t7TP)
 
 浙江德清后坞村，在初冬的竹林中寻找竹叶。
 

@@ -19,6 +19,7 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 
 <!-- Start Document Outline -->
 
+* [Xichen's Vlog #044 2021 我做了啥](#xichens-vlog-044-2021-我做了啥)
 * [Xichen's Vlog #043 野竹漫步](#xichens-vlog-043-野竹漫步)
 * [Xichen's Vlog #042 浪](#xichens-vlog-042-浪)
 * [Xichen's Vlog #041 MIDI Controller DIY](#xichens-vlog-041-midi-controller-diy)
@@ -67,6 +68,18 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 <!-- End Document Outline -->
 
 ***
+
+## Xichen's Vlog #044 2021 我做了啥
+
+![Xichen Vlog 044 Cover](./cover/Xichen_Vlog_044_Cover.jpg)
+[YouTube](https://www.youtube.com/watch?v=8ZaeV30uPmk)
+[Bilibili](https://www.bilibili.com/video/bv1Eu411U7Rj)
+
+2021年，我们开始做自己的小游戏啦。
+
+Music in Video is from artlist.io:  
+Have a seat pour a drink by Francesco Dandrea  
+Café da manhã by Luc Allieres
 
 ## Xichen's Vlog #043 野竹漫步
 

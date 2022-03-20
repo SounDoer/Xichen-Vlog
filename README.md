@@ -19,6 +19,7 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 
 <!-- Start Document Outline -->
 
+* [Xichen's Vlog #045 陈家兜往事](#xichens-vlog-045-陈家兜往事)
 * [Xichen's Vlog #044 2021 我做了啥](#xichens-vlog-044-2021-我做了啥)
 * [Xichen's Vlog #043 野竹漫步](#xichens-vlog-043-野竹漫步)
 * [Xichen's Vlog #042 浪](#xichens-vlog-042-浪)
@@ -68,6 +69,18 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 <!-- End Document Outline -->
 
 ***
+
+## Xichen's Vlog #045 陈家兜往事
+
+![Xichen Vlog 045 Cover](./cover/Xichen_Vlog_045_Cover.jpg)
+[YouTube](https://www.youtube.com/watch?v=cOQWye15IoI)
+[Bilibili](https://www.bilibili.com/video/BV1Mq4y1v7nz)
+
+试图用几个冬天的记录拼凑出一个小村庄的变迁。
+
+Music in Video is from artlist.io:  
+Breath Within by Onyx Music  
+Welcome Home by Angel Salazar
 
 ## Xichen's Vlog #044 2021 我做了啥
 

@@ -19,6 +19,7 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 
 <!-- Start Document Outline -->
 
+* [Xichen's Vlog #046 大唐十二坊](#xichens-vlog-046-大唐十二坊)
 * [Xichen's Vlog #045 陈家兜往事](#xichens-vlog-045-陈家兜往事)
 * [Xichen's Vlog #044 2021 我做了啥](#xichens-vlog-044-2021-我做了啥)
 * [Xichen's Vlog #043 野竹漫步](#xichens-vlog-043-野竹漫步)
@@ -69,6 +70,17 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 <!-- End Document Outline -->
 
 ***
+
+## Xichen's Vlog #046 大唐十二坊
+
+![Xichen Vlog 046 Cover](./cover/Xichen_Vlog_046_Cover.jpg)
+[YouTube](https://www.youtube.com/watch?v=ZVvZvmBxRv8)
+[Bilibili](https://www.bilibili.com/video/BV1WF411x71K)
+
+老朋友子骏带大家游览空无一人的长安街景。
+
+Music in Video is from artlist.io:  
+Rooms by We Dream Of Eden
 
 ## Xichen's Vlog #045 陈家兜往事
 

@@ -19,6 +19,7 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 
 <!-- Start Document Outline -->
 
+* [Xichen's Vlog #047 BLOCK 之春](#xichens-vlog-047-block-之春)
 * [Xichen's Vlog #046 大唐十二坊](#xichens-vlog-046-大唐十二坊)
 * [Xichen's Vlog #045 陈家兜往事](#xichens-vlog-045-陈家兜往事)
 * [Xichen's Vlog #044 2021 我做了啥](#xichens-vlog-044-2021-我做了啥)
@@ -70,6 +71,21 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 <!-- End Document Outline -->
 
 ***
+
+## Xichen's Vlog #047 BLOCK 之春
+
+![Xichen Vlog 046 Cover](./cover/Xichen_Vlog_047_Cover.jpg)
+[YouTube](https://www.youtube.com/watch?v=5dkR5dtK4Io)
+[Bilibili](https://www.bilibili.com/video/bv1tT41177ka)
+
+2022年春的上海居家生活。
+
+Music in Video is from artlist.io:  
+G.O.A.T - Ty Simon  
+La Vendetta Rossa - Benjamin Esterlis  
+Seaside Fair Wells - Benjamin Esterlis  
+Nonsense - Raw  
+We Only Come Out At Night - Ghst Mdrn
 
 ## Xichen's Vlog #046 大唐十二坊
 

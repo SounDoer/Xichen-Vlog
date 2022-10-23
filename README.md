@@ -19,6 +19,7 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 
 <!-- Start Document Outline -->
 
+* [Xichen's Vlog #048 无论绿码黄码还是红码 我都将与你在一起](#xichens-vlog-048-无论绿码黄码还是红码-我都将与你在一起)
 * [Xichen's Vlog #047 BLOCK 之春](#xichens-vlog-047-block-之春)
 * [Xichen's Vlog #046 大唐十二坊](#xichens-vlog-046-大唐十二坊)
 * [Xichen's Vlog #045 陈家兜往事](#xichens-vlog-045-陈家兜往事)
@@ -72,9 +73,21 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 
 ***
 
+## Xichen's Vlog #048 无论绿码黄码还是红码 我都将与你在一起
+
+![Xichen Vlog 048 Cover](./cover/Xichen_Vlog_048_Cover.jpg)
+[YouTube](https://www.youtube.com/watch?v=FPJu3HmdnFA)
+[Bilibili](https://www.bilibili.com/video/BV1e14y1j7Ja)
+
+无论贫穷或疾病
+无论灾难或战争
+无论饥荒或瘟疫
+无论绿码黄码还是红码
+我都将与你在一起
+
 ## Xichen's Vlog #047 BLOCK 之春
 
-![Xichen Vlog 046 Cover](./cover/Xichen_Vlog_047_Cover.jpg)
+![Xichen Vlog 047 Cover](./cover/Xichen_Vlog_047_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=5dkR5dtK4Io)
 [Bilibili](https://www.bilibili.com/video/bv1tT41177ka)
 

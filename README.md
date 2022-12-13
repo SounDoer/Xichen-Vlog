@@ -19,6 +19,7 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 
 <!-- Start Document Outline -->
 
+* [Xichen's Vlog #049 岭东村](#xichens-vlog-049-岭东村)
 * [Xichen's Vlog #048 无论绿码黄码还是红码 我都将与你在一起](#xichens-vlog-048-无论绿码黄码还是红码-我都将与你在一起)
 * [Xichen's Vlog #047 BLOCK 之春](#xichens-vlog-047-block-之春)
 * [Xichen's Vlog #046 大唐十二坊](#xichens-vlog-046-大唐十二坊)
@@ -72,6 +73,14 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 <!-- End Document Outline -->
 
 ***
+
+## Xichen's Vlog #049 岭东村
+
+![Xichen Vlog 049 Cover](./cover/Xichen_Vlog_049_Cover.jpg)
+[YouTube](https://www.youtube.com/watch?v=skB--ilQGLM)
+[Bilibili](https://www.bilibili.com/video/BV1TK411r7jV)
+
+太湖西山岛上的小村庄，橘子与茶叶，旧土与故乡。
 
 ## Xichen's Vlog #048 无论绿码黄码还是红码 我都将与你在一起
 

@@ -19,6 +19,7 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 
 <!-- Start Document Outline -->
 
+* [Xichen's Vlog #050 Coffee in the Wilds](#xichens-vlog-050-coffee-in-the-wilds)
 * [Xichen's Vlog #049 岭东村](#xichens-vlog-049-岭东村)
 * [Xichen's Vlog #048 无论绿码黄码还是红码 我都将与你在一起](#xichens-vlog-048-无论绿码黄码还是红码-我都将与你在一起)
 * [Xichen's Vlog #047 BLOCK 之春](#xichens-vlog-047-block-之春)
@@ -73,6 +74,14 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 <!-- End Document Outline -->
 
 ***
+
+## Xichen's Vlog #050 Coffee in the Wilds
+
+![Xichen Vlog 050 Cover](./cover/Xichen_Vlog_050_Cover.jpg)
+[YouTube](https://www.youtube.com/watch?v=aaH68opeI4I)
+[Bilibili](https://www.bilibili.com/video/BV1eM41117pk)
+
+One tent, two cats, coffee in the wilds.
 
 ## Xichen's Vlog #049 岭东村
 

@@ -19,6 +19,7 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 
 <!-- Start Document Outline -->
 
+* [Xichen's Vlog #051 再见漕河泾](#xichens-vlog-051-再见漕河泾)
 * [Xichen's Vlog #050 Coffee in the Wilds](#xichens-vlog-050-coffee-in-the-wilds)
 * [Xichen's Vlog #049 岭东村](#xichens-vlog-049-岭东村)
 * [Xichen's Vlog #048 无论绿码黄码还是红码 我都将与你在一起](#xichens-vlog-048-无论绿码黄码还是红码-我都将与你在一起)
@@ -74,6 +75,14 @@ Weibo: [希辰Xichen](https://weibo.com/soundoer)
 <!-- End Document Outline -->
 
 ***
+
+## Xichen's Vlog #051 再见漕河泾
+
+![Xichen Vlog 051 Cover](./cover/Xichen_Vlog_051_Cover.jpg)
+[YouTube](https://www.youtube.com/watch?v=sHI4awFlZjs)
+[Bilibili](https://www.bilibili.com/video/BV1yY411e7iA)
+
+2022年，社畜面对人生终极意义问题时的无病呻吟。
 
 ## Xichen's Vlog #050 Coffee in the Wilds
 

@@ -13,7 +13,6 @@ permalink: /
 
 YouTube: [Xichen Shen](https://www.youtube.com/c/XichenShen)  
 Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)  
-Weibo: [希辰Xichen](https://weibo.com/soundoer)
 
 ***
 

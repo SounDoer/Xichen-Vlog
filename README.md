@@ -18,6 +18,7 @@ Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)
 
 <!-- Start Document Outline -->
 
+* [Xichen's Vlog #052 Game Audio Mixing at Theater](#xichens-vlog-052-game-audio-mixing-at-theater)
 * [Xichen's Vlog #051 再见漕河泾](#xichens-vlog-051-再见漕河泾)
 * [Xichen's Vlog #050 Coffee in the Wilds](#xichens-vlog-050-coffee-in-the-wilds)
 * [Xichen's Vlog #049 岭东村](#xichens-vlog-049-岭东村)
@@ -74,6 +75,14 @@ Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)
 <!-- End Document Outline -->
 
 ***
+
+## Xichen's Vlog #052 Game Audio Mixing at Theater
+
+![Xichen Vlog 052 Cover](./cover/Xichen_Vlog_052_Cover.jpg)
+[YouTube]()
+[Bilibili]()
+
+非官方的《重生边缘》游戏开发幕后，真实的纪录，坦诚的心声。
 
 ## Xichen's Vlog #051 再见漕河泾
 

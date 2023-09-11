@@ -80,7 +80,7 @@ Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)
 
 ![Xichen Vlog 052 Cover](./cover/Xichen_Vlog_052_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=X2uh5yyrZO8)
-[Bilibili]()
+[Bilibili](https://www.bilibili.com/video/BV1iu4y1k7wg)
 
 非官方的《重生边缘》游戏开发幕后，真实的纪录，坦诚的心声。
 

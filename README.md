@@ -18,6 +18,11 @@ Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)
 
 <!-- Start Document Outline -->
 
+* [Xichen's Vlog #057 冰岛行 半岛](#xichens-vlog-057-冰岛行-半岛)
+* [Xichen's Vlog #056 冰岛行 去北方](#xichens-vlog-056-冰岛行-去北方)
+* [Xichen's Vlog #055 冰岛行 瀑布](#xichens-vlog-055-冰岛行-瀑布)
+* [Xichen's Vlog #054 冰岛行 黑沙滩](#xichens-vlog-054-冰岛行-黑沙滩)
+* [Xichen's Vlog #053 冰岛行 观鲸](#xichens-vlog-053-冰岛行-观鲸)
 * [Xichen's Vlog #052 Game Audio Mixing at Theater](#xichens-vlog-052-game-audio-mixing-at-theater)
 * [Xichen's Vlog #051 再见漕河泾](#xichens-vlog-051-再见漕河泾)
 * [Xichen's Vlog #050 Coffee in the Wilds](#xichens-vlog-050-coffee-in-the-wilds)
@@ -75,6 +80,56 @@ Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)
 <!-- End Document Outline -->
 
 ***
+
+## Xichen's Vlog #057 冰岛行 半岛
+
+Xichen's Vlog #057 Journey in Iceland: To The North
+
+![Xichen Vlog 057 Cover](./cover/Xichen_Vlog_057_Cover.jpg)
+[YouTube]()
+[Bilibili]()
+
+2023年9月23日至10月5日，冰岛环岛自驾之旅，西部半岛国家公园。
+
+## Xichen's Vlog #056 冰岛行 去北方
+
+Xichen's Vlog #056 Journey in Iceland: To The North
+
+![Xichen Vlog 056 Cover](./cover/Xichen_Vlog_056_Cover.jpg)
+[YouTube]()
+[Bilibili]()
+
+2023年9月23日至10月5日，冰岛环岛自驾之旅，去北方，in the middle of nowhere。
+
+## Xichen's Vlog #055 冰岛行 瀑布
+
+Xichen's Vlog #055 Journey in Iceland: Waterfall
+
+![Xichen Vlog 055 Cover](./cover/Xichen_Vlog_055_Cover.jpg)
+[YouTube]()
+[Bilibili]()
+
+2023年9月23日至10月5日，冰岛环岛自驾之旅，各种各样大大小小的瀑布。
+
+## Xichen's Vlog #054 冰岛行 黑沙滩
+
+Xichen's Vlog #054 Journey in Iceland: Black Beach
+
+![Xichen Vlog 054 Cover](./cover/Xichen_Vlog_054_Cover.jpg)
+[YouTube]()
+[Bilibili]()
+
+2023年9月23日至10月5日，冰岛环岛自驾之旅，黑沙滩。
+
+## Xichen's Vlog #053 冰岛行 观鲸
+
+Xichen's Vlog #053 Journey in Iceland: Whale Watching
+
+![Xichen Vlog 053 Cover](./cover/Xichen_Vlog_053_Cover.jpg)
+[YouTube]()
+[Bilibili]()
+
+2023年9月23日至10月5日，冰岛环岛自驾之旅，冰岛北部胡萨维克小镇出海观鲸，和其他可爱的动物们。
 
 ## Xichen's Vlog #052 Game Audio Mixing at Theater
 

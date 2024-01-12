@@ -86,8 +86,8 @@ Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)
 Xichen's Vlog #057 Journey in Iceland: To The North
 
 ![Xichen Vlog 057 Cover](./cover/Xichen_Vlog_057_Cover.jpg)
-[YouTube]()
-[Bilibili]()
+[YouTube](https://www.youtube.com/watch?v=S93rbSLvjuA)
+[Bilibili](https://www.bilibili.com/video/BV1Qk4y1X77T)
 
 2023年9月23日至10月5日，冰岛环岛自驾之旅，西部半岛国家公园。
 
@@ -96,8 +96,8 @@ Xichen's Vlog #057 Journey in Iceland: To The North
 Xichen's Vlog #056 Journey in Iceland: To The North
 
 ![Xichen Vlog 056 Cover](./cover/Xichen_Vlog_056_Cover.jpg)
-[YouTube]()
-[Bilibili]()
+[YouTube](https://www.youtube.com/watch?v=JRibcG8IQ8g)
+[Bilibili](https://www.bilibili.com/video/BV1U5411q7ht)
 
 2023年9月23日至10月5日，冰岛环岛自驾之旅，去北方，in the middle of nowhere。
 
@@ -106,8 +106,8 @@ Xichen's Vlog #056 Journey in Iceland: To The North
 Xichen's Vlog #055 Journey in Iceland: Waterfall
 
 ![Xichen Vlog 055 Cover](./cover/Xichen_Vlog_055_Cover.jpg)
-[YouTube]()
-[Bilibili]()
+[YouTube](https://www.youtube.com/watch?v=shUNN72wFOY)
+[Bilibili](https://www.bilibili.com/video/BV1994y1M7yY)
 
 2023年9月23日至10月5日，冰岛环岛自驾之旅，各种各样大大小小的瀑布。
 
@@ -116,8 +116,8 @@ Xichen's Vlog #055 Journey in Iceland: Waterfall
 Xichen's Vlog #054 Journey in Iceland: Black Beach
 
 ![Xichen Vlog 054 Cover](./cover/Xichen_Vlog_054_Cover.jpg)
-[YouTube]()
-[Bilibili]()
+[YouTube](https://www.youtube.com/watch?v=2KZ6P9O_pa0)
+[Bilibili](https://www.bilibili.com/video/BV1GT4y1p7xQ)
 
 2023年9月23日至10月5日，冰岛环岛自驾之旅，黑沙滩。
 
@@ -126,8 +126,8 @@ Xichen's Vlog #054 Journey in Iceland: Black Beach
 Xichen's Vlog #053 Journey in Iceland: Whale Watching
 
 ![Xichen Vlog 053 Cover](./cover/Xichen_Vlog_053_Cover.jpg)
-[YouTube]()
-[Bilibili]()
+[YouTube](https://www.youtube.com/watch?v=oBxnRzuEz5A)
+[Bilibili](https://www.bilibili.com/video/BV1WC4y1v7A6)
 
 2023年9月23日至10月5日，冰岛环岛自驾之旅，冰岛北部胡萨维克小镇出海观鲸，和其他可爱的动物们。
 

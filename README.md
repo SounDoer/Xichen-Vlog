@@ -18,6 +18,7 @@ Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)
 
 <!-- Start Document Outline -->
 
+* [Xichen's Vlog #058 二零二三年的酒与歌](#xichens-vlog-058-二零二三年的酒与歌)
 * [Xichen's Vlog #057 冰岛行 半岛](#xichens-vlog-057-冰岛行-半岛)
 * [Xichen's Vlog #056 冰岛行 去北方](#xichens-vlog-056-冰岛行-去北方)
 * [Xichen's Vlog #055 冰岛行 瀑布](#xichens-vlog-055-冰岛行-瀑布)
@@ -80,6 +81,23 @@ Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)
 <!-- End Document Outline -->
 
 ***
+
+## Xichen's Vlog #058 二零二三年的酒与歌
+
+![Xichen Vlog 058 Cover](./cover/Xichen_Vlog_058_Cover.jpg)
+[YouTube](https://www.youtube.com/watch?v=xxmDQ646C_c)
+[Bilibili](https://www.bilibili.com/video/BV1xi421R7wR)
+
+感谢出镜与未出镜的朋友们
+想念去年没能约上的朋友们
+祝大家上班或不上班都开心
+
+Music:
+T. Bless & the Professionals - Showtime
+Ziv Grinberg - Dance of the Hours
+Steaming Satellites - Unfold
+Daigo Hanada - Yura
+Ziv Moran - Easy-Peasy
 
 ## Xichen's Vlog #057 冰岛行 半岛
 

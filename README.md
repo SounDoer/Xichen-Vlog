@@ -88,15 +88,15 @@ Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)
 [YouTube](https://www.youtube.com/watch?v=xxmDQ646C_c)
 [Bilibili](https://www.bilibili.com/video/BV1xi421R7wR)
 
-感谢出镜与未出镜的朋友们
-想念去年没能约上的朋友们
+感谢出镜与未出镜的朋友们  
+想念去年没能约上的朋友们  
 祝大家上班或不上班都开心
 
-Music:
-T. Bless & the Professionals - Showtime
-Ziv Grinberg - Dance of the Hours
-Steaming Satellites - Unfold
-Daigo Hanada - Yura
+Music:  
+T.Bless & the Professionals - Showtime  
+Ziv Grinberg - Dance of the Hours  
+Steaming Satellites - Unfold  
+Daigo Hanada - Yura  
 Ziv Moran - Easy-Peasy
 
 ## Xichen's Vlog #057 冰岛行 半岛
@@ -187,10 +187,10 @@ One tent, two cats, coffee in the wilds.
 [YouTube](https://www.youtube.com/watch?v=FPJu3HmdnFA)
 [Bilibili](https://www.bilibili.com/video/BV1e14y1j7Ja)
 
-无论贫穷或疾病
-无论灾难或战争
-无论饥荒或瘟疫
-无论绿码黄码还是红码
+无论贫穷或疾病  
+无论灾难或战争  
+无论饥荒或瘟疫  
+无论绿码黄码还是红码  
 我都将与你在一起
 
 ## Xichen's Vlog #047 BLOCK 之春

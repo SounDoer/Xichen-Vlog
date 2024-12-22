@@ -18,6 +18,7 @@ Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)
 
 <!-- Start Document Outline -->
 
+* [Xichen's Vlog #059 星巴与三妹](#xichens-vlog-059-星巴与三妹)
 * [Xichen's Vlog #058 二零二三年的酒与歌](#xichens-vlog-058-二零二三年的酒与歌)
 * [Xichen's Vlog #057 冰岛行 半岛](#xichens-vlog-057-冰岛行-半岛)
 * [Xichen's Vlog #056 冰岛行 去北方](#xichens-vlog-056-冰岛行-去北方)
@@ -79,6 +80,21 @@ Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)
 * [Xichen's Vlog #000 From SounDoer to 希辰](#xichens-vlog-000-from-soundoer-to-希辰)
 
 <!-- End Document Outline -->
+
+## Xichen's Vlog #059 星巴与三妹
+
+![Xichen Vlog 059 Cover](./cover/Xichen_Vlog_059_Cover.jpg)
+[YouTube]()
+[Bilibili]()
+
+星巴与三妹，二狗、大橘和小咪咪，还有 Mico，不同猫生各自精彩。
+
+Nils Frahm - Changes  
+The Kiffness - Big Billy  
+Joep Beving - Etude  
+The Dead South - In Hell I'll Be In Good Company  
+Explosions In The Sky & David Wingo - Hello, Is This Your House  
+daniel.mp3 - green to blue
 
 ***
 

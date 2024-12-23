@@ -81,11 +81,13 @@ Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)
 
 <!-- End Document Outline -->
 
+***
+
 ## Xichen's Vlog #059 星巴与三妹
 
 ![Xichen Vlog 059 Cover](./cover/Xichen_Vlog_059_Cover.jpg)
-[YouTube]()
-[Bilibili]()
+[YouTube](https://www.youtube.com/watch?v=k7dZVw-SS2g)
+[Bilibili](https://www.bilibili.com/video/BV19VCNYDEev)
 
 星巴与三妹，二狗、大橘和小咪咪，还有 Mico，不同猫生各自精彩。
 
@@ -95,8 +97,6 @@ Joep Beving - Etude
 The Dead South - In Hell I'll Be In Good Company  
 Explosions In The Sky & David Wingo - Hello, Is This Your House  
 daniel.mp3 - green to blue
-
-***
 
 ## Xichen's Vlog #058 二零二三年的酒与歌
 

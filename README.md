@@ -19,6 +19,7 @@ Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)
 <!-- Start Document Outline -->
 
 - [Xichen's Vlog](#xichens-vlog)
+  - [Xichen's Vlog #061 二零二四，春夏秋冬](#xichens-vlog-061-二零二四春夏秋冬)
   - [Xichen's Vlog #060 租房买房](#xichens-vlog-060-租房买房)
   - [Xichen's Vlog #059 星巴与三妹](#xichens-vlog-059-星巴与三妹)
   - [Xichen's Vlog #058 二零二三年的酒与歌](#xichens-vlog-058-二零二三年的酒与歌)
@@ -84,6 +85,15 @@ Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)
 <!-- End Document Outline -->
 
 ***
+
+## Xichen's Vlog #061 二零二四，春夏秋冬
+
+![Xichen Vlog 061 Cover](./cover/Xichen_Vlog_061_Cover.jpg)
+[YouTube]()
+[Bilibili]()
+
+“你有好多黑历史在我这儿，到时候全部给你剪出来，打你脸。”
+“其实挺好的，不是打我脸。你证明我活过。”
 
 ## Xichen's Vlog #060 租房买房
 

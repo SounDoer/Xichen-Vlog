@@ -89,8 +89,8 @@ Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)
 ## Xichen's Vlog #061 二零二四，春夏秋冬
 
 ![Xichen Vlog 061 Cover](./cover/Xichen_Vlog_061_Cover.jpg)
-[YouTube]()
-[Bilibili]()
+[YouTube](https://www.youtube.com/watch?v=OSMcJcTcGsU)
+[Bilibili](https://www.bilibili.com/video/BV1odVzzsEEA)
 
 “你有好多黑历史在我这儿，到时候全部给你剪出来，打你脸。”
 “其实挺好的，不是打我脸。你证明我活过。”
